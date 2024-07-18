@@ -1,0 +1,42 @@
+﻿<Window x:Class="Assignment1.GUI.BookingInterface"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment1.GUI"
+        mc:Ignorable="d"
+        Title="BookingInterface" Height="auto" Width="auto" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid Height="720" HorizontalAlignment="Left" Width="1080" Background="#FFF0F0F0">
+        <Rectangle HorizontalAlignment="Left" Height="451" Margin="350,227,0,0" Stroke="Black" VerticalAlignment="Top" Width="678"/>
+        <Rectangle HorizontalAlignment="Left" Height="226" Margin="52,346,0,0" Stroke="Black" VerticalAlignment="Top" Width="272"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" Height="150" Margin="0,30,0,0" VerticalAlignment="Top" Width="976" Background="White">
+            <Label Content="Booking Manager" Margin="309,37,309,37" FontSize="48" FontFamily="Impact"/>
+        </Border>
+        <DataGrid x:Name="dgrRoomInfo" HorizontalAlignment="Left" Height="181" Margin="393,258,0,0" VerticalAlignment="Top" Width="600" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionMode="Single" IsReadOnly="True" Loaded="dgrRoomInfo_Loaded" SelectionChanged="dgrRoomInfo_SelectionChanged"/>
+        <Rectangle HorizontalAlignment="Left" Height="165" Margin="393,482,0,0" Stroke="Black" VerticalAlignment="Top" Width="600"/>
+        <DatePicker x:Name="dateCheckin" HorizontalAlignment="Left" Margin="562,502,0,0" VerticalAlignment="Top"/>
+        <Label Content="Check-in date" HorizontalAlignment="Left" Margin="428,498,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Check-out date" HorizontalAlignment="Left" Margin="725,498,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <DatePicker x:Name="dateCheckout" HorizontalAlignment="Left" Margin="860,502,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtPrice" HorizontalAlignment="Left" Margin="637,531,0,0" TextWrapping="Wrap" Text="Price:" VerticalAlignment="Top" Height="41" Width="112" TextAlignment="Center" Foreground="Red" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.499,0.521"/>
+        <TextBlock x:Name="txtTotal" HorizontalAlignment="Left" Margin="132,508,0,0" TextWrapping="Wrap" Text="Total price:" VerticalAlignment="Top" Height="56" Width="112" TextAlignment="Center" Foreground="Red" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.737,1.101"/>
+        <Button x:Name="btnBook" Content="Book" HorizontalAlignment="Left" Margin="562,593,0,0" VerticalAlignment="Top" Height="38" Width="102" FontSize="16" RenderTransformOrigin="0.161,0.585" Click="btnBook_Click"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="733,593,0,0" VerticalAlignment="Top" Height="38" Width="102" FontSize="16" RenderTransformOrigin="0.161,0.585"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="141,632,0,0" VerticalAlignment="Top" Height="46" Width="94" FontSize="16" FontWeight="Bold" Click="btnBack_Click"/>
+        <TextBlock x:Name="txtError" HorizontalAlignment="Left" Margin="759,689,0,0" TextWrapping="Wrap" Text="Error" VerticalAlignment="Top" Height="20" Width="303" Foreground="Red" FontSize="16" TextAlignment="Right" FontWeight="Bold"/>
+        <TextBlock x:Name="hiddenContinue" HorizontalAlignment="Left" Margin="0,719,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="1" Width="2" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <DataGrid x:Name="dgrBooking" HorizontalAlignment="Left" Height="143" Margin="65,360,0,0" VerticalAlignment="Top" Width="246" d:ItemsSource="{d:SampleData ItemCount=5}" Loaded="dgrBooking_Loaded"/>
+        <TextBox x:Name="inpSearchRsv" HorizontalAlignment="Left" Margin="52,258,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="272" Height="25"/>
+        <Label Content="Find reservation by customer name" HorizontalAlignment="Left" Margin="74,224,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Button x:Name="btSearchName" Content="Search!" HorizontalAlignment="Left" Margin="148,298,0,0" VerticalAlignment="Top" Height="33" Width="80" Click="btSearchName_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\bin\Debug\net8.0\Repository.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\bin\Debug\net8.0\Repository.pdb
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.pdb
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Repository\bin\Debug\net8.0\BusinessObj\appsettings.json

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Assignment1.GUI.AdminScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="CustomerScreen" Height="auto" Width="auto" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFF0F0F0" Width="1080" Height="720">
+        <DataGrid x:Name="dgrRoomInfo" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionMode="Single" Margin="315,315,45,45" Loaded="dgrRoomInfo_Loaded" FontSize="16" IsReadOnly="True"/>
+        <TextBox x:Name="inpSearchType" TextWrapping="Wrap" Margin="417,167,373,521" FontSize="24"/>
+        <Label Content="Search for Room Type" HorizontalAlignment="Left" Margin="158,159,0,0" VerticalAlignment="Top" Height="40" Width="254" FontSize="24"/>
+        <Button x:Name="btnAdd" Content="Add new Room" HorizontalAlignment="Left" Margin="65,315,0,0" VerticalAlignment="Top" Width="185" Height="36" FontSize="24" Click="btnAdd_Click"/>
+        <Button x:Name="btnUpdate" Content="Update a Room" HorizontalAlignment="Left" Margin="65,400,0,0" VerticalAlignment="Top" Width="185" Height="36" FontSize="24" Click="btnUpdate_Click"/>
+        <Button x:Name="btnDelete" Content="Delete a Room" HorizontalAlignment="Left" Margin="65,485,0,0" VerticalAlignment="Top" Width="185" Height="36" FontSize="24" Click="btnDelete_Click"/>
+        <Button x:Name="btnQuit" Content="Back" HorizontalAlignment="Left" Margin="65,639,0,0" VerticalAlignment="Top" Width="185" Height="36" FontSize="24" Click="btnQuit_Click"/>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="757,209,0,0" VerticalAlignment="Top" Width="160" Height="36" FontSize="24" Click="btnSearch_Click"/>
+        <TextBox x:Name="inpSearchPrice" TextWrapping="Wrap" Margin="417,214,483,474" FontSize="24" TextChanged="inpSearchPrice_TextChanged"/>
+        <Label Content="Search for Room Price" HorizontalAlignment="Left" Margin="158,206,0,0" VerticalAlignment="Top" Height="40" Width="244" FontSize="24"/>
+        <Label x:Name="ErrorLabel" Content="" HorizontalAlignment="Center" Margin="0,269,0,0" VerticalAlignment="Top" FontSize="16" Foreground="Red" FontWeight="Bold"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="98" Margin="144,159,0,0" VerticalAlignment="Top" Width="816">
+            <Button x:Name="btnTypeList" Content="Room Types" Margin="613,9,42,56" FontSize="20" Click="btnTypeList_Click"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" Height="110" Margin="0,24,0,0" VerticalAlignment="Top" Width="988" Background="White">
+            <Label Content="Hotel Manager" HorizontalAlignment="Center" Height="83" VerticalAlignment="Center" Width="360" FontSize="48" FontWeight="Bold"/>
+        </Border>
+    </Grid>
+</Window>

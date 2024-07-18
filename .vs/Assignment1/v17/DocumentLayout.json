@@ -1,0 +1,569 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\accountdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\accountdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\accountdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\accountdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|d:\\fpt university\\2024summer\\prn212-211\\source\\demo\\assignment1\\service\\repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\repository\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\hoteldetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\hoteldetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\hoteldetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\hoteldetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\roomtypelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\roomtypelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\customerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\customerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\bookinginterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\bookinginterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\adminscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\adminscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\adminchoice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\adminchoice.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\accountmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\accountmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\repository\\custservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\custservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\repository\\custrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\custrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F228A52-94A0-4EC4-AA83-C314946D7B66}|Repository\\Repository.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\repository\\businessobj\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F228A52-94A0-4EC4-AA83-C314946D7B66}|Repository\\Repository.csproj|solutionrelative:repository\\businessobj\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\bookinginterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\bookinginterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\customerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\customerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\roomtypelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\roomtypelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\repository\\databasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\databasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\repository\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\repository\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E28AB3FD-9120-4A15-AEEB-85DA8EB70327}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F228A52-94A0-4EC4-AA83-C314946D7B66}|Repository\\Repository.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F228A52-94A0-4EC4-AA83-C314946D7B66}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\adminscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\adminscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\adminchoice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\adminchoice.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\assignment1\\gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4510F930-F0DC-43F1-92ED-D3BF9185F1ED}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelDetail.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\HotelDetail.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\HotelDetail.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\HotelDetail.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\HotelDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:37:00.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountManager.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountManager.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AccountManager.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountManager.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\AccountManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T02:11:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountDetail.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountDetail.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AccountDetail.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountDetail.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\AccountDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:34:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDetail.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AccountDetail.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountDetail.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\AccountDetail.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAADgv4IAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:48:29.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDetail.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\HotelDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\HotelDetail.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\HotelDetail.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\HotelDetail.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAGsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:36:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\BookingService.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\BookingService.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\BookingService.cs",
+              "RelativeToolTip": "Service\\Repository\\BookingService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvyAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:29:17.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\BookingRepo.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\BookingRepo.cs",
+              "RelativeToolTip": "Service\\Repository\\BookingRepo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAH0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:29:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomTypeList.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\RoomTypeList.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\RoomTypeList.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\RoomTypeList.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\RoomTypeList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T06:38:21.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Report.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\Report.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Report.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T07:01:17.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Login.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\Login.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Login.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T02:10:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerScreen.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\CustomerScreen.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\CustomerScreen.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\CustomerScreen.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\CustomerScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T02:10:31.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingInterface.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\BookingInterface.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\BookingInterface.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\BookingInterface.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\BookingInterface.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:37:03.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Service",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T06:28:55.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T06:28:43.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountManager.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountManager.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AccountManager.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AccountManager.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\AccountManager.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:10:52.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomTypeList.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\RoomTypeList.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\RoomTypeList.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\RoomTypeList.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\RoomTypeList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:23:50.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminScreen.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminScreen.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AdminScreen.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminScreen.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\AdminScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T02:10:02.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\App.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\App.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\App.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T03:26:05.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Repository\\BusinessObj\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "Repository\\BusinessObj\\FuminiHotelManagementContext.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Repository\\BusinessObj\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "Repository\\BusinessObj\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:13:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminScreen.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AdminScreen.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminScreen.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\AdminScreen.xaml.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:09:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\Login.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Login.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\Login.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvzUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T03:40:40.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminChoice.xaml",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminChoice.xaml",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AdminChoice.xaml",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminChoice.xaml",
+              "RelativeToolTip": "Assignment1\\GUI\\AdminChoice.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T07:37:34.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DatabaseTest.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\DatabaseTest.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\DatabaseTest.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\DatabaseTest.cs",
+              "RelativeToolTip": "Service\\Repository\\DatabaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:30:22.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustService.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\CustService.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\CustService.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\CustService.cs",
+              "RelativeToolTip": "Service\\Repository\\CustService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:41:31.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustRepo.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\CustRepo.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\CustRepo.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\CustRepo.cs",
+              "RelativeToolTip": "Service\\Repository\\CustRepo.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:41:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\Report.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\Report.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\Report.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:48:09.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingInterface.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\BookingInterface.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\BookingInterface.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\BookingInterface.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\BookingInterface.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:51:37.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerScreen.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\CustomerScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\CustomerScreen.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\CustomerScreen.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\CustomerScreen.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:39:03.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\HotelService.cs",
+              "RelativeDocumentMoniker": "Service\\Repository\\HotelService.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Service\\Repository\\HotelService.cs",
+              "RelativeToolTip": "Service\\Repository\\HotelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:30:03.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminChoice.xaml.cs",
+              "DocumentMoniker": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminChoice.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment1\\GUI\\AdminChoice.xaml.cs",
+              "ToolTip": "D:\\FPT UNIVERSITY\\2024Summer\\PRN212-211\\source\\Demo\\Assignment1\\Assignment1\\GUI\\AdminChoice.xaml.cs",
+              "RelativeToolTip": "Assignment1\\GUI\\AdminChoice.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:37:40.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

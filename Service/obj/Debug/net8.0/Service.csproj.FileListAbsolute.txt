@@ -1,0 +1,17 @@
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Service.deps.json
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Service.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Service.pdb
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Repository.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Repository.pdb
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\refint\Service.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\Service.pdb
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\obj\Debug\net8.0\ref\Service.dll
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\BusinessObj\appsettings.json
+D:\FPT UNIVERSITY\2024Summer\PRN212-211\source\Demo\Assignment1\Service\bin\Debug\net8.0\Repository\appsettings.json
